@@ -31,7 +31,7 @@ A responsive personal portfolio website showcasing my skills, projects, and qual
 
 🌐 Live Demo (Optional)  
 If hosted online (GitHub Pages, Netlify, Vercel), include a link:  
-🔗 Live Preview: [https://your-portfolio-link.netlify.app](https://your-portfolio-link.netlify.app)  
+🔗 Live Preview: `https://202376353.github.io/index.html`
 
 
 
